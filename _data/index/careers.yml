@@ -4,8 +4,7 @@
     detail: NEC Laboratories Europe
     i18n: company_a
   desc:
-    detail: I worked with the Data Science group on memory networks for aspect-based sentiment analysis. We further
-    extended the system to tackle sentiment analysis in financial headlines.
+    detail: I worked with the Data Science group on memory networks for aspect-based sentiment analysis. We further extended the system to tackle sentiment analysis in financial headlines.
     i18n: company_a_desc
   date:
     detail: Feb. 2017 - Sep. 2017
@@ -19,8 +18,7 @@
     detail: Institute for Infocomm Research
     i18n: company_b
   desc:
-    detail: I worked with the Visual Attention Lab on activity recognition in videos where I proposed and developped an
-    object detector based on recurrent neural network.
+    detail: I worked with the Visual Attention Lab on activity recognition in videos where I proposed and developped an object detector based on recurrent neural network.
     i18n: company_b_desc
   date:
     detail: Jul. 2016 - Jan. 2017
