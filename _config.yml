@@ -16,7 +16,8 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: RomainVial  # Leave blank if you don't have now
   linkedin_id: vialromain # Leave blank if you don't have now
-  facebook_username: VialRom  # Leave blank if you don't have now
+  facebook_username: # Leave blank if you don't have now
+  angellist_username: romain-vial # Leave blank if you don't have now
   email: # Leave blank if you don't have now
   rss: # Leave blank if you don't want a link to rss feed
   cv: # A online CV can be printed as PDF, leave blank if you don't have now
