@@ -13,9 +13,7 @@
     <div class="row">
             <div class="col-sm-12">
             {% for news in site.data.index.news %}
-                <li>
-                    <ul>{{ news.name }}: {{ news.desc }}</ul>
-                </li>
+                <p><span data-i18n="about_me.des"><b>{{ news.name }}</b>: {{ news.desc }}</span></p><br />
             {% endfor %}
             </div>
     </div>
