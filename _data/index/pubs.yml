@@ -6,8 +6,8 @@
   img: /static/assets/img/landing/jekyll.png
   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
   authors: **Romain Vial**, Shijian Lu
-  pdf: https://arxiv.org/abs/1706.08218 # Link to pdf
-  code: https://github.com/RomainVial/romainvial.github.io/ # Link to repo
+  pdf: # https://arxiv.org/abs/1706.08218 # Link to pdf
+  code: # https://github.com/RomainVial/romainvial.github.io/ # Link to repo
 
 - name: Jalpc
   i18n: jalpc
