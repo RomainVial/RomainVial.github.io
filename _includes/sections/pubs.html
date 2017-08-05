@@ -15,11 +15,13 @@
             <div class="col-sm-6">
               <div class="pubs-desc">
                   <h4>
-                  {% if pub.repo %}
-                  <a href="https://github.com/{{ pub.gh_user }}/{{ pub.repo }}" target="_blank"><span class="navy">{{ pub.name }}</span></a>
-                  {% else %}
-                  <span class="navy">{{ pub.name }}</span>
-                  {% endif %}
+                      <span class="navy">{{ pub.name }}</span>
+                      {% if pub.pdf %}
+                        <a href="{{ pub.pdf }}" target="_blank">[PDF]</a>
+                      {% endif %}
+                      {% if pub.code %}
+                        <a href="{{ pub.code }}" target="_blank">[CODE]</a>
+                      {% endif %}
                   </h4>
                   <p><span data-i18n="pubs.{{ pub.i18n }}">{{ pub.desc }}</span></p>
               </div>
