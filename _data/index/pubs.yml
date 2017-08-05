@@ -19,7 +19,7 @@
   pdf: # Link to pdf
   gh: # Link to github repo
 
-- name: YoTube: Searching Action Proposal via Recurrent and Static Regression Networks
+- name: YoTube, Searching Action Proposal via Recurrent and Static Regression Networks
   i18n:
   img: /pubs/1706.08218.pdf.jpg
   desc: >
@@ -28,7 +28,7 @@
           YoTube explores the regression capability of RNN for candidate bounding boxes predictions using
           learnt temporal dynamics and the static YoTube produces the bounding boxes using rich appearance
           cues in a single frame. H. Zhu and R. Vial contributed equally.
-  authors: Hongyuan Zhu, Romain Vial, Shijian Lu, Yonghong Tian, Xianbin Cao
+  authors: Hongyuan Zhu, Romain Vial&#9824;, Shijian Lu, Yonghong Tian, Xianbin Cao
   conf: arXiv pre-print
   pdf: https://arxiv.org/abs/1706.08218
   gh: # Link to github repo
