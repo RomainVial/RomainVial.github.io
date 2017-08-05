@@ -7,7 +7,7 @@
     </div>
     {% for project in site.data.index.projects %}
         {% assign loopindex = forloop.index | modulo: 3 %}
-        {% if loopindex == 0 %}
+        {% if loopindex == 1 %}
             <div class="row row-eq-height">
         {% endif %}
 
@@ -24,8 +24,8 @@
                   <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }}</span></p>
               </div>
             </div>
-                
-        {% if loopindex == 2 %}
+
+        {% if loopindex == 0 %}
             </div>
         {% endif %}
     {% endfor %}
