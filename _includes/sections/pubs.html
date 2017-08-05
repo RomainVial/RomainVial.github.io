@@ -10,7 +10,12 @@
         <div class="row row-eq-height">
             <div class="col-sm-4">
               <div class="team-member">
-                  <img src="{{ pub.img | prepend: site.baseurl }}" class="img-responsive" alt="">
+                  {% if pub.pdf %}
+                        <a href="{{ pub.pdf }}" target="_blank"><img src="{{ pub.img | prepend: site.baseurl }}"
+                                                                     class="img-responsive" alt=""></a>
+                  {% else %}
+                      <img src="{{ pub.img | prepend: site.baseurl }}" class="img-responsive" alt="">
+                  {% endif %}
               </div>
             </div>
             <div class="col-sm-8">
