@@ -19,9 +19,9 @@
   css: timeline
 
 - id: pub
-  i18n: nav.pub
+  i18n: nav.pubs
   name: Publications
-  tpl: pub.html
+  tpl: pubs.html
   css: pub
 
 - id: projects
