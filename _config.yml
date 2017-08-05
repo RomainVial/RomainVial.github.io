@@ -2,15 +2,15 @@
 
 # Website settings
 title: Romain Vial
-description: 
-keywords: 
+description: Personal webpage of Romain Vial, AI enthusiast!
+keywords: github, gh-pages, Romain
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://romainvial.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 img_path: /romainvial/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: Romain  # Be used at blog posts' author.
+  name: Romain Vial # Be used at blog posts' author.
   first_name: Romain  # Be used at index page about me section.
   last_name: Vial  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
