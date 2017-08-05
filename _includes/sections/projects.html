@@ -5,9 +5,12 @@
             <h1><span data-i18n="projects.my_projects">My Projects</span></h1>
         </div>
     </div>
-    <div class="row row-eq-height">
-        {% for project in site.data.index.projects %}
-            {% assign loopindex = forloop.index | modulo: 3 %}
+    {% for project in site.data.index.projects %}
+        {% assign loopindex = forloop.index | modulo: 3 %}
+        {% if loopindex == 0 %}
+            <div class="row row-eq-height">
+        {% endif %}
+
             <div class="col-sm-4">
               <div class="team-member">
                   <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive" alt="">
@@ -21,7 +24,10 @@
                   <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }}</span></p>
               </div>
             </div>
-      {% endfor %}
-    </div>
+                
+        {% if loopindex == 2 %}
+            </div>
+        {% endif %}
+    {% endfor %}
 </div>
 <br>
