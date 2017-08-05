@@ -27,8 +27,8 @@
           videos. Our method consists of a recurrent YoTube detector and a static YoTube detector, where the recurrent
           YoTube explores the regression capability of RNN for candidate bounding boxes predictions using
           learnt temporal dynamics and the static YoTube produces the bounding boxes using rich appearance
-          cues in a single frame. * Authors contributed equally.
-  authors: Hongyuan Zhu*, Romain Vial*, Shijian Lu, Yonghong Tian, Xianbin Cao
+          cues in a single frame. &#9824; Authors contributed equally.
+  authors: Hongyuan Zhu*&#9824;, Romain Vial&#9824;, Shijian Lu, Yonghong Tian, Xianbin Cao
   conf: arXiv pre-print
   pdf: https://arxiv.org/abs/1706.08218
   gh: # Link to github repo
