@@ -27,3 +27,12 @@
   conf: ICCV 2017
   pdf: # Link to pdf
   gh: # Link to github repo
+
+- name: Jalpc
+  i18n: jalpc
+  img: /static/assets/img/pubs/1706.08218.pdf.jpg
+  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  authors: Romain Vial, Shijian Lu
+  conf: ICCV 2017
+  pdf: # Link to pdf
+  gh: # Link to github repo
