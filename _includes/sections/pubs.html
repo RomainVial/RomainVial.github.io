@@ -5,8 +5,9 @@
             <h1><span data-i18n="projects.my_projects">Publications</span></h1>
         </div>
     </div>
-    <div class="row row-eq-height">
-        {% for pub in site.data.index.pubs %}
+
+    {% for pub in site.data.index.pubs %}
+        <div class="row row-eq-height">
             <div class="col-sm-6">
               <div class="team-member">
                   <img src="{{ pub.img | prepend: site.baseurl }}" class="img-responsive" alt="">
@@ -29,7 +30,7 @@
                   <p><span data-i18n="pubs.{{ pub.i18n }}">{{ pub.desc }}</span></p>
               </div>
           </div>
-      {% endfor %}
-    </div>
+        </div>
+    {% endfor %}
 </div>
 <br>
