@@ -28,11 +28,17 @@
   pdf: # Link to pdf
   gh: # Link to github repo
 
-- name: Jalpc
-  i18n: jalpc
-  img: /static/assets/img/pubs/1706.08218.pdf.jpg
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
-  authors: Romain Vial, Shijian Lu
-  conf: ICCV 2017
-  pdf: # Link to pdf
+- name: Search Video Action Proposal with Recurrent and Static YOLO
+  i18n:
+  img: /pubs/ICIP2017.pdf.jpg
+  desc: >
+          In this paper, we propose a new approach for searching action
+          proposals in unconstrained videos. Our method first produces
+          snippet action proposals by combining YOLO detector and our regression
+          based RNN detector. Then, these short action proposals are
+          integrated to form final action proposals by solving two-pass
+          dynamic programming which maximizes actioness score and temporal smoothness concurrently.
+  authors: Romain Vial, Hongyuan Zhu, Yonghong Tian, Shijian Lu
+  conf: ICIP 2017
+  pdf: /pubs/ICIP2017.pdf
   gh: # Link to github repo
