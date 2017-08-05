@@ -24,11 +24,11 @@
   tpl: pubs.html
   css: pub
 
-- id: projects
-  i18n: nav.projects
-  name: Projects
-  tpl: projects.html
-  css: project
+#- id: projects
+#  i18n: nav.projects
+#  name: Projects
+#  tpl: projects.html
+#  css: project
 
 - id: links
   i18n: nav.links
