@@ -10,13 +10,17 @@
   pdf: https://arxiv.org/abs/1706.08218 # Link to pdf
   code: https://github.com/RomainVial/romainvial.github.io/ # Link to repo
 
-- name: Jalpc
-  i18n: jalpc
-  img: /static/assets/img/pubs/1706.08218.pdf.jpg
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
-  authors: Romain Vial, Shijian Lu
+- name: TORNADO, A Spatio-Temporal Convolutional Regression Network for Video Action Proposal
+  i18n:
+  img: /pubs/ICCV2017.pdf.jpg
+  desc: >
+          In this paper, we present a novel framework called TORNADO for human action proposal detection in untrimmed
+          video clips. Specifically, we propose a spatio-temporal convolutional network that combines the advantages
+          of regression-based detector and L-RCN by empowering Convolutional LSTM with regression capability.
+          &#9733; Authors contributed equally.
+  authors: Hongyuan Zhu&#9733;, Romain Vial&#9733;, Shijian Lu
   conf: ICCV 2017
-  pdf: # Link to pdf
+  pdf: /pubs/ICCV2017.pdf
   gh: # Link to github repo
 
 - name: YoTube, Searching Action Proposal via Recurrent and Static Regression Networks
