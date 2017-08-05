@@ -6,6 +6,7 @@
   img: /static/assets/img/landing/jekyll.png
   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
   authors: Romain Vial, Shijian Lu
+  conf: ICCV 2017
   pdf: https://arxiv.org/abs/1706.08218 # Link to pdf
   code: https://github.com/RomainVial/romainvial.github.io/ # Link to repo
 
@@ -14,6 +15,7 @@
   img: /static/assets/img/landing/jekyll.png
   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
   authors: Romain Vial, Shijian Lu
+  conf: ICCV 2017
   pdf: # Link to pdf
   gh: # Link to github repo
 
@@ -22,5 +24,6 @@
   img: /static/assets/img/landing/jekyll.png
   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
   authors: Romain Vial, Shijian Lu
+  conf: ICCV 2017
   pdf: # Link to pdf
   gh: # Link to github repo
