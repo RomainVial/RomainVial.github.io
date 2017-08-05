@@ -34,14 +34,22 @@
 
 - name:
     detail: MINES ParisTech
-    i18n: company_b
+    i18n:
   desc:
-    detail: M.Sc. Executive Engineering, Geostatistics and Applied Probabilities
-    i18n: company_b_desc
+    detail: |
+              "M.Sc. Executive Engineering, Geostatistics and Applied Probabilities
+              Attended courses:
+              - Statistics
+              - Machine Learning
+              - Probability
+              - Optimization
+              - Image Processing
+              - Stochastic processes"
+    i18n:
   date:
     detail: Sep. 2014 - Jun. 2018
-    i18n: company_b_date
+    i18n:
   job:
     detail: M.Sc. Student
-    i18n: company_b_job
+    i18n:
   icon: fa-plus-square
