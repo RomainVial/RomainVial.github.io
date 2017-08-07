@@ -3,11 +3,17 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Graph Enhanced Memory Networks for Sentiment Analysis
   i18n:
-  img: # Link to illustration
-  desc: # Desc
+  img: /pubs/ECML2017.pdf.jpg
+  desc: >
+          Memory networks model information and knowledge as memories that can be manipulated for
+          prediction and reasoning about questions of interest. In many cases, there exists complicated
+          relational structure in the data, by which the memories can be linked together into graphs to
+          propagate information. Typical examples include tree structure of a sentence and knowledge graph
+          in a dialogue system. In this paper, we present a novel graph enhanced memory network GEMN to
+          integrate relational information between memories for prediction and reasoning.
   authors: Zhao Xu, Romain Vial, Kristian Kersting
   conf: ECML-PKDD 2017
-  pdf: # Link to pdf
+  pdf: /pubs/ECML2017.pdf
   code: # Link to repo
 
 - name: TORNADO, A Spatio-Temporal Convolutional Regression Network for Video Action Proposal
