@@ -37,14 +37,14 @@
     i18n:
   desc:
     detail: |
-              "M.Sc. Executive Engineering, Geostatistics and Applied Probabilities
+              M.Sc. Executive Engineering, Geostatistics and Applied Probabilities
               Attended courses:
               - Statistics
               - Machine Learning
               - Probability
               - Optimization
               - Image Processing
-              - Stochastic processes"
+              - Stochastic processes
     i18n:
   date:
     detail: Sep. 2014 - Jun. 2018
