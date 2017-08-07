@@ -38,13 +38,13 @@
   desc:
     detail: |
               M.Sc. Executive Engineering, Geostatistics and Applied Probabilities
-              Attended courses:
-              - Statistics
-              - Machine Learning
-              - Probability
-              - Optimization
-              - Image Processing
-              - Stochastic processes
+              \n Attended courses:
+              \n - Statistics
+              \n - Machine Learning
+              \n - Probability
+              \n - Optimization
+              \n - Image Processing
+              \n - Stochastic processes
     i18n:
   date:
     detail: Sep. 2014 - Jun. 2018
