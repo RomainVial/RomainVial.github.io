@@ -1,14 +1,20 @@
-# projects section data
-# If you don't have language feature(language.yml is empty), ignore "i18n" items
-# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+# news section data
+- name: July 2017
+  i18n:
+  desc: Our paper "TORNADO, A Spatio-Temporal Convolutional Regression Network for Video Action Proposal" has been accepted to ICCV 2017 in Venice!
 
-- name: LeetCode
-  i18n: leetcode
-  desc: This project is other's project. I use another request to get repo's information.
+- name: June 2017
+  i18n:
+  desc: Our paper "Graph Enhanced Memory Networks for Sentiment Analysis" has been accepted to ECML-PKDD 2017 in Skopje!
 
-- name: FamilyCODE Wchat
-  i18n: familycode
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+- name: May 2017
+  i18n:
+  desc: Our paper "Search Video Action Proposal with Recurrent and Static YOLO" has been accepted to ICIP 2017 in Beijing!
+
+- name: February 2017
+  i18n:
+  desc: I started my internship with NEC Laboratories Europe in Heidelberg, Germany.
+
+- name: July 2016
+  i18n:
+  desc: I started my internship with Insitute for Infocomm Research in the Visual Attention Group in Singapore.
