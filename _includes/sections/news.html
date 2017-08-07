@@ -7,7 +7,7 @@
     </div>
     <div class="row">
             <div class="col-sm-12">
-                <p><span data-i18n="about_me.des">{{ site.author.desc }}</span></p><br />
+                <p><span data-i18n="about_me.des">{{ site.author.desc | markdownify }}</span></p><br />
                 {% for news in site.data.index.news %}
                     <p><span data-i18n="about_me.des"><b>{{ news.name }}</b>: {{ news.desc }}</span></p>
                 {% endfor %}
