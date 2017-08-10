@@ -14,4 +14,11 @@ title : Sitemap
         <loc>{{site.url}}{{ page.url }}</loc>
     </url>
 {% endfor %}
+{% for pub in site.data.index.pubs %}
+    {% if pub.pdf %}
+        <url>
+            <loc>{{site.url}}{{ pub.pdf }}</loc>
+        </url>
+    {% endif %}
+{% endfor %}
 </urlset>

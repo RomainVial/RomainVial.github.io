@@ -14,9 +14,10 @@
   authors: Zhao Xu, Romain Vial, Kristian Kersting
   conf: ECML-PKDD 2017
   pdf: /pubs/ECML2017.pdf
+  arxiv: # Link to arXiv
   code: # Link to repo
 
-- name: TORNADO, A Spatio-Temporal Convolutional Regression Network for Video Action Proposal
+- name: "TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal"
   i18n:
   img: /pubs/ICCV2017.pdf.jpg
   desc: >
@@ -27,9 +28,10 @@
   authors: Hongyuan Zhu&#9733;, Romain Vial&#9733;, Shijian Lu
   conf: ICCV 2017
   pdf: /pubs/ICCV2017.pdf
+  arxiv: # Link to arXiv
   gh: # Link to github repo
 
-- name: YoTube, Searching Action Proposal via Recurrent and Static Regression Networks
+- name: "YoTube: Searching Action Proposal via Recurrent and Static Regression Networks"
   i18n:
   img: /pubs/1706.08218.pdf.jpg
   desc: >
@@ -40,7 +42,8 @@
           cues in a single frame. &#9733; Authors contributed equally.
   authors: Hongyuan Zhu&#9733;, Romain Vial&#9733;, Shijian Lu, Yonghong Tian, Xianbin Cao
   conf: arXiv pre-print
-  pdf: https://arxiv.org/abs/1706.08218
+  pdf: # Link to pdf
+  arxiv: https://arxiv.org/abs/1706.08218
   gh: # Link to github repo
 
 - name: Search Video Action Proposal with Recurrent and Static YOLO
@@ -56,4 +59,5 @@
   authors: Romain Vial, Hongyuan Zhu, Yonghong Tian, Shijian Lu
   conf: ICIP 2017
   pdf: /pubs/ICIP2017.pdf
+  arxiv: # Link to arXiv
   gh: # Link to github repo

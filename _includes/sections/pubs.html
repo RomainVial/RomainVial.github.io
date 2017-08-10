@@ -14,7 +14,12 @@
                         <a href="{{ pub.pdf }}" target="_blank"><img src="{{ pub.img | prepend: site.baseurl }}"
                                                                      class="img-responsive" alt=""></a>
                   {% else %}
-                      <img src="{{ pub.img | prepend: site.baseurl }}" class="img-responsive" alt="">
+                    {% if pub.arxiv %}
+                            <a href="{{ pub.arxiv }}" target="_blank"><img src="{{ pub.img | prepend: site.baseurl }}"
+                                                                           class="img-responsive" alt=""></a>
+                    {% else %}
+                            <img src="{{ pub.img | prepend: site.baseurl }}" class="img-responsive" alt="">
+                    {% endif %}
                   {% endif %}
               </div>
             </div>
@@ -24,6 +29,9 @@
                       <span class="navy">{{ pub.name }}</span>
                       {% if pub.pdf %}
                         <a href="{{ pub.pdf }}" target="_blank">[PDF]</a>
+                      {% endif %}
+                      {% if pub.arxiv %}
+                        <a href="{{ pub.arxiv }}" target="_blank">[arXiv]</a>
                       {% endif %}
                       {% if pub.code %}
                         <a href="{{ pub.code }}" target="_blank">[CODE]</a>
