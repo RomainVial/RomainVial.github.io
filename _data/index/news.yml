@@ -1,7 +1,11 @@
 # news section data
+- name: September 2017
+  i18n:
+  desc: I will be at ICIP 2017 in Beijing to present our paper! Feel free to contact me for a coffee!
+
 - name: July 2017
   i18n:
-  desc: Our paper "TORNADO, A Spatio-Temporal Convolutional Regression Network for Video Action Proposal" has been accepted to ICCV 2017 in Venice!
+  desc: 'Our paper "TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal" has been accepted to ICCV 2017 in Venice!'
 
 - name: June 2017
   i18n:

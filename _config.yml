@@ -22,8 +22,26 @@ author:  # change following line to your infomation.
   email: romainvial84@gmail.com # Leave blank if you don't have now
   rss: # Leave blank if you don't want a link to rss feed
   cv: # A online CV can be printed as PDF, leave blank if you don't have now
-  desc: >
-         Describe yourself.
+  desc: |
+          Hi!
+
+          My name is Romain Vial. I am a french Master Student at [MINES ParisTech](http://www.mines-paristech.eu/)
+          pursuing a M.Sc. in Applied Probabilities.
+
+          I am also enrolled in a double degree with [ENS Paris Saclay](http://www.ens-cachan.fr/en)
+          in the [MVA Master programme](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)
+          focusing on Machine Learning and Computer Vision.
+
+          From July 2016 to September 2017, I took a gap year and had the chance to complete two very interesting
+          internships. I first went to Singapore at [Institute for Infocomm Research](http://www.i2r.a-star.edu.sg/) where
+          I worked on activity recognition in videos. Then, I continued in Heidelberg, Germany at
+          [NEC Laboratories Europe](http://uk.nec.com/en_GB/emea/about/neclab_eu/index.html?) where I worked on
+          Natural Language Processing and Deep Learning for aspect-based sentiment analysis. Both internships led to
+          publications in machine learning and/or computer vision conferences.
+
+          **I am currently looking for my final year internship beginning in April 2018. I am very interested in all
+          the areas of Artificial Intelligence and Deep Learning in both research and production environments. Feel
+          free to contact me!**
 
 # analytics
 ## google analytics
