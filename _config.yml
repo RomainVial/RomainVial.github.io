@@ -5,7 +5,7 @@ title: Romain Vial
 description: Personal webpage of Romain Vial, AI enthusiast!
 keywords: github, gh-pages, Romain, Romain Vial, Deep Learning, Machine Learning
 baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://romainvial.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
+url: http://romainvial.xyz  # url should be 'http://<github_username>.github.io/homepage' as before
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
