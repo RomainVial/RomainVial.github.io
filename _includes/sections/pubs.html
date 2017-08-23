@@ -11,7 +11,7 @@
             <div class="col-sm-4">
               <div class="team-member">
                   {% if pub.pdf %}
-                        <a href="{{ pub.pdf }}" target="_blank" onclick="_gaq.push(['_trackEvent','Download','PDF',this.href]);">
+                        <a href="{{ pub.pdf }}" target="_blank">
                             <img src="{{ pub.img | prepend: site.baseurl }}" class="img-responsive" alt="">
                         </a>
                   {% else %}
@@ -29,7 +29,7 @@
                   <h4>
                       <span class="navy">{{ pub.name }}</span>
                       {% if pub.pdf %}
-                        <a href="{{ pub.pdf }}" target="_blank" onclick="_gaq.push(['_trackEvent','Download','PDF',this.href]);">
+                        <a href="{{ pub.pdf }}" target="_blank">
                             [PDF]
                         </a>
                       {% endif %}
