@@ -17,34 +17,34 @@
   arxiv: # Link to arXiv
   code: # Link to repo
 
-- name: "TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal"
-  i18n:
-  img: /pubs/ICCV2017.pdf.jpg
-  desc: >
-          In this paper, we present a novel framework called TORNADO for human action proposal detection in untrimmed
-          video clips. Specifically, we propose a spatio-temporal convolutional network that combines the advantages
-          of regression-based detector and L-RCN by empowering Convolutional LSTM with regression capability.
-          &#9733; Authors contributed equally.
-  authors: Hongyuan Zhu&#9733;, Romain Vial&#9733;, Shijian Lu
-  conf: ICCV 2017
-  pdf: /pubs/ICCV2017.pdf
-  arxiv: # Link to arXiv
-  gh: # Link to github repo
+#- name: "TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal"
+#  i18n:
+#  img: /pubs/ICCV2017.pdf.jpg
+#  desc: >
+#          In this paper, we present a novel framework called TORNADO for human action proposal detection in untrimmed
+#          video clips. Specifically, we propose a spatio-temporal convolutional network that combines the advantages
+#          of regression-based detector and L-RCN by empowering Convolutional LSTM with regression capability.
+#          &#9733; Authors contributed equally.
+#  authors: Hongyuan Zhu&#9733;, Romain Vial&#9733;, Shijian Lu
+#  conf: ICCV 2017
+#  pdf: /pubs/ICCV2017.pdf
+#  arxiv: # Link to arXiv
+#  gh: # Link to github repo
 
-- name: "YoTube: Searching Action Proposal via Recurrent and Static Regression Networks"
-  i18n:
-  img: /pubs/1706.08218.pdf.jpg
-  desc: >
-          We  present YoTube, a novel network fusion  framework  for  searching  action  proposals  in  untrimmed
-          videos. Our method consists of a recurrent YoTube detector and a static YoTube detector, where the recurrent
-          YoTube explores the regression capability of RNN for candidate bounding boxes predictions using
-          learnt temporal dynamics and the static YoTube produces the bounding boxes using rich appearance
-          cues in a single frame. &#9733; Authors contributed equally.
-  authors: Hongyuan Zhu&#9733;, Romain Vial&#9733;, Shijian Lu, Yonghong Tian, Xianbin Cao
-  conf: arXiv pre-print
-  pdf: # Link to pdf
-  arxiv: https://arxiv.org/abs/1706.08218
-  gh: # Link to github repo
+#- name: "YoTube: Searching Action Proposal via Recurrent and Static Regression Networks"
+#  i18n:
+#  img: /pubs/1706.08218.pdf.jpg
+#  desc: >
+#          We  present YoTube, a novel network fusion  framework  for  searching  action  proposals  in  untrimmed
+#          videos. Our method consists of a recurrent YoTube detector and a static YoTube detector, where the recurrent
+#          YoTube explores the regression capability of RNN for candidate bounding boxes predictions using
+#          learnt temporal dynamics and the static YoTube produces the bounding boxes using rich appearance
+#          cues in a single frame. &#9733; Authors contributed equally.
+#  authors: Hongyuan Zhu&#9733;, Romain Vial&#9733;, Shijian Lu, Yonghong Tian, Xianbin Cao
+#  conf: arXiv pre-print
+#  pdf: # Link to pdf
+#  arxiv: https://arxiv.org/abs/1706.08218
+#  gh: # Link to github repo
 
 - name: Search Video Action Proposal with Recurrent and Static YOLO
   i18n:
