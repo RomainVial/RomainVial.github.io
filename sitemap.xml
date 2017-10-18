@@ -20,5 +20,10 @@ title : Sitemap
             <loc>{{site.url}}{{ pub.pdf }}</loc>
         </url>
     {% endif %}
+    {% if pub.ppt %}
+        <url>
+            <loc>{{site.url}}{{ pub.ppt }}</loc>
+        </url>
+    {% endif %}
 {% endfor %}
 </urlset>
