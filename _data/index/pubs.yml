@@ -25,7 +25,7 @@
 #          video clips. Specifically, we propose a spatio-temporal convolutional network that combines the advantages
 #          of regression-based detector and L-RCN by empowering Convolutional LSTM with regression capability.
 #          &#9733; Authors contributed equally.
-#  authors: Hongyuan Zhu&#9733;, Romain Vial&#9733;, Shijian Lu
+#  authors: Hongyuan Zhu, Romain Vial, Shijian Lu
 #  conf: ICCV 2017
 #  pdf: /pubs/ICCV2017.pdf
 #  arxiv: # Link to arXiv
@@ -61,3 +61,4 @@
   pdf: /pubs/ICIP2017.pdf
   arxiv: # Link to arXiv
   gh: # Link to github repo
+  ppt: /pubs/ICIP2017_presentation.pdf
