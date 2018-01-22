@@ -17,19 +17,19 @@
   arxiv: # Link to arXiv
   code: # Link to repo
 
-#- name: "TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal"
-#  i18n:
-#  img: /pubs/ICCV2017.pdf.jpg
-#  desc: >
-#          In this paper, we present a novel framework called TORNADO for human action proposal detection in untrimmed
-#          video clips. Specifically, we propose a spatio-temporal convolutional network that combines the advantages
-#          of regression-based detector and L-RCN by empowering Convolutional LSTM with regression capability.
-#          &#9733; Authors contributed equally.
-#  authors: Hongyuan Zhu, Romain Vial, Shijian Lu
-#  conf: ICCV 2017
-#  pdf: /pubs/ICCV2017.pdf
-#  arxiv: # Link to arXiv
-#  gh: # Link to github repo
+- name: "TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal"
+  i18n:
+  img: /pubs/ICCV2017.pdf.jpg
+  desc: >
+          In this paper, we present a novel framework called TORNADO for human action proposal detection in untrimmed
+          video clips. Specifically, we propose a spatio-temporal convolutional network that combines the advantages
+          of regression-based detector and L-RCN by empowering Convolutional LSTM with regression capability.
+          &#9733; Authors contributed equally.
+  authors: Hongyuan Zhu, Romain Vial, Shijian Lu
+  conf: ICCV 2017
+  pdf: /pubs/ICCV2017.pdf
+  arxiv: # Link to arXiv
+  gh: # Link to github repo
 
 #- name: "YoTube: Searching Action Proposal via Recurrent and Static Regression Networks"
 #  i18n:
