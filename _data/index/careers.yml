@@ -9,9 +9,12 @@
 
               Attended courses:
               - Computer Vision and Object Recognition (C. Schmid, J. Ponce, J. Sivic)
-              - Probabilistic Graphical Models (F. Bach, G. Obozinski)
+              - Probabilistic Graphical Models (F. Bach)
               - Reinforcement Learning (A. Lazaric)
               - Convex Optimization (A. d'Aspremont)
+              - Algorithms for Speech and NLP (E. Dupoux)
+              - Machine Learning with Kernel Methods (JP. Vert, J. Mairal)
+              - Curse of dimensionality (S. Mallat)
     i18n: company_a_desc
   date:
     detail: Sep. 2017 - Jun. 2018

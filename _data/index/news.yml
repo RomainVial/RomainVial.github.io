@@ -1,19 +1,23 @@
 # news section data
+- name: 02/2018
+  i18n:
+  desc: We had one paper accepted in TIP journal!
+
 - name: 09/2017
   i18n:
   desc: I will present our paper at ICIP 2017 in Beijing! Feel free to contact me for a coffee!
 
 - name: 07/2017
   i18n:
-  desc: 'Our paper "TORNADO: A Spatio-Temporal Convolutional Regression Network for Video Action Proposal" has been accepted to ICCV 2017 in Venice!'
+  desc: We had one paper accepted to ICCV 2017 in Venice!
 
 - name: 06/2017
   i18n:
-  desc: Our paper "Graph Enhanced Memory Networks for Sentiment Analysis" has been accepted to ECML-PKDD 2017 in Skopje!
+  desc: We had one paper accepted to ECML-PKDD 2017 in Skopje!
 
 - name: 05/2017
   i18n:
-  desc: Our paper "Search Video Action Proposal with Recurrent and Static YOLO" has been accepted to ICIP 2017 in Beijing!
+  desc: We had one paper accepted to ICIP 2017 in Beijing!
 
 - name: 02/2017
   i18n:
