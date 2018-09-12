@@ -5,7 +5,9 @@
     i18n: company_a
   desc:
     detail: |
-              Master 2 in Mathematics, Computer Vision and Machine Learning (M2 Mathématiques, Vision Apprentissage)
+              I completed the Master 2 Mathématiques, Vision, Apprentissage (MVA) in parallel of my last year
+              at MINES ParisTech. Master MVA is a prestigious research Master in France, specialized in Computer Vision
+              and Machine Learning. Taught by leading researchers, it aims to bring students abreast with the cutting edge in research.
 
               Attended courses:
               - Computer Vision and Object Recognition (C. Schmid, J. Ponce, J. Sivic)
@@ -61,7 +63,9 @@
     i18n:
   desc:
     detail: |
-              M.Sc. in Executive Engineering, Geostatistics and Applied Probabilities
+              MINES ParisTech is one of the top and oldest French Engineering School. With more than 1,200
+              students (Masters and Ph.D) and its 18 research centres covering a wide range of topic,
+              it has built a strong link with companies and industries.
 
               Attended courses:
               - Statistics

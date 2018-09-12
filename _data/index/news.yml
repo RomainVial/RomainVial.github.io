@@ -1,4 +1,12 @@
 # news section data
+- name: 09/2018
+  i18n:
+  desc: I'm pleased to pursue the adventure with Hyperlex as a full time Data Scientist!
+
+- name: 03/2018
+  i18n:
+  desc: I just started my internship with Hyperlex!
+
 - name: 02/2018
   i18n:
   desc: We had one paper accepted in TIP journal!
