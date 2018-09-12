@@ -5,6 +5,24 @@
     i18n: company_a
   desc:
     detail: |
+              Development of a NLP pipeline to automate the process of analyzing legal documents for a SaaS contract management platform.
+
+              - Continuous improvement of Hyperlex AI engine in close collaboration with the Product team
+              - Managed several PoC projects to solve various NLP tasks (e.g. information extraction, anomaly detection) for our clients
+    i18n: company_a_desc
+  date:
+    detail: Mar. 2018 - Aug. 2018
+    i18n: company_a_date
+  job:
+    detail: Data Scientist
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Hyperlex
+    i18n: company_a
+  desc:
+    detail: |
               - Benchmarking state-of-the-art methods for text classification in legal documents
               - Integration of those methods into Hyperlex AI engine which leads to a significant qualitative
               improvement for our customers
